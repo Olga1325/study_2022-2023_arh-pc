@@ -20,7 +20,7 @@ lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
-documentclass: scrreprt
+documentclass: report
 ## I18n polyglossia
 polyglossia-lang:
   name: russian
